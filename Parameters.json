@@ -3,6 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
 
+        "virtualMachineName": { "value": "AS-W7O16-64" },
         "adminUserName": { "value": "bandeAdmin" },
         "adminPassword": { "value": "pm85anGHBV2o!" },
         "domainToJoin": {"value": "lnvfdev.local"},
