@@ -1,0 +1,13 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+
+        "adminUserName": { "value": "bandeAdmin" },
+        "adminPassword": { "value": "pm85anGHBV2o!" },
+        "domainToJoin": {"value": "lnvfdev.local"},
+        "domainUsername": {"value": "bandeAdmin"},
+        "domainPassword": {"value": "pm85anGHBV2o!"}
+        
+    }
+  }
